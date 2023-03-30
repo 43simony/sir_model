@@ -44,6 +44,8 @@ R_0 &= 0.0
 
 ### Built With
 
+- [`{deSolve}`](https://cran.r-project.org/web/packages/deSolve/index.html) for solving differential equations
+
 ### Getting Started
 - [R version 4.2.1 (2022-06-23)](https://cran.r-project.org/bin/macosx/)
 - [`{renv}`](https://rstudio.github.io/renv/articles/renv.html) for package management
