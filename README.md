@@ -45,9 +45,10 @@ R_0 &= 0.0
 ### Built With
 
 ### Getting Started
-
+- [R version 4.2.1 (2022-06-23)](https://cran.r-project.org/bin/macosx/)
+- [`{renv}`](https://rstudio.github.io/renv/articles/renv.html) for package management
 ### Usage
-
+Uses fractional populations
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
